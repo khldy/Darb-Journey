@@ -13,7 +13,7 @@ const videoLinks = {
     "Gaza": "https://youtu.be/tKaA4UJdJG8?si=klfx-WXjlWzkWkr1",
     "FromTheRiver2theSea" : "https://youtu.be/cBW_gwA9X38?si=A7Ut-cmSI65Lpv89",
     "08092024" : "https://youtu.be/sUQpAyXdNx8?si=LdT1ncTlrNv1GuCJ",
-    "Islambol" : "https://youtu.be/1J9Z2J1j7Zo?si=QWQPoWS9WscU8luW",
+    "Islambol" : "https://youtu.be/Jjyg8uCmIr0?si=cvE-YVdINhnBgyJz",
 };
 
 function checkpassword() {
