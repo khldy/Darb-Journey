@@ -15,6 +15,9 @@ function checkpassword() {
     const password = document.getElementById('password').value;
     const errorMessage = document.getElementById('error-message');
     const successMessage = document.getElementById('success-message');
+    const errorVideoContainer = document.getElementById('error-video-container');
+
+    errorVideoContainer.classList.add('hidden');
     
     if (videoLinks[password]) {
         document.querySelector('.container').style.display = 'none';
@@ -28,6 +31,9 @@ function checkpassword() {
         errorMessage.textContent = "الباسورد مش صح جرب تاني";
         errorMessage.style.display = "block";
         document.getElementById('password').value = "";
+        errorVideoContainer.classList.remove('hidden');
+        const errorVideoElement = document.getElementById('error-video');
+        errorVideoElement.play(); // Auto-play the video
     }
 }
 

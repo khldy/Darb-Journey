@@ -17,12 +17,19 @@
         <p id="error-message"></p>
     </div>
 
+    <div id="error-video-container" class="hidden">
+        <video id="error-video" playsinline autoplay>
+            <source src="GG.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+
     <div id="success-message" class="hidden">
         <video id="congrats-video" playsinline autoplay>
             <source src="congrats.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
-        <button onclick="redirect()" id="redirect">عاااش! خد الڤيديو دا هدية مننا 🎁 
+        <button onclick="redirect()" id="redirect">عاااش! الهدية دي مننا 🎁 
         </button>
     </div>
 
