@@ -9,6 +9,11 @@ const videoLinks = {
     "live&dieforallah2": "https://youtu.be/WE_jmLSKgP4?feature=shared",
     "live&dieforallah3": "https://omran.org/ar/%D9%81%D9%8A-%D9%81%D9%84%D8%B3%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%AF%D8%A7%D8%AA?language=en",
     "live&dieforallah4": "https://makkahacademy.org/our-life-and-islamic-culture-0011/",
+    "FreePalestine": "https://youtu.be/BB5q9BKzH0M?si=QWQPoWS9WscU8luW",
+    "Gaza": "https://youtu.be/tKaA4UJdJG8?si=klfx-WXjlWzkWkr1",
+    "FromTheRiver2theSea" : "https://youtu.be/cBW_gwA9X38?si=A7Ut-cmSI65Lpv89",
+    "08092024" : "https://youtu.be/sUQpAyXdNx8?si=LdT1ncTlrNv1GuCJ",
+    "Islambol" : "https://youtu.be/1J9Z2J1j7Zo?si=QWQPoWS9WscU8luW",
 };
 
 function checkpassword() {

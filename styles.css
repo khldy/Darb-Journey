@@ -140,7 +140,7 @@ input {
     height: 10px;
     background: rgba(213, 172, 92, 0.8);
     animation: confetti-fall linear infinite;
-    animation-duration: 3s;
+    animation-duration: 2s;
 }
 
 @keyframes confetti-fall {
