@@ -9,6 +9,7 @@ body {
     margin: 0;
     background-color: #105939;
     font-family: "Tajawal", sans-serif;
+    overflow: hidden;
 }
 
 .container {
