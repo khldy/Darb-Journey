@@ -141,8 +141,9 @@ input {
 
 @media (max-width: 600px) {
     .container {
-        width: 90%;
+        width: 70%;
         padding: 20px;
+        padding-right: 40px;
     }
 
     h1 {
@@ -155,6 +156,10 @@ input {
     }
 
     #congrats-video {
-        width: 100%; /* Ensure video scales well on small screens */
+        width: 80%; /* Ensure video scales well on small screens */
+    }
+
+    #redirect {
+        width: 80%;
     }
 }
